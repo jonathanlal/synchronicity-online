@@ -81,9 +81,9 @@ public class HelloAppEngine extends HttpServlet {
 	 
 			for(int x = 0; x < obj.length(); x++) {
 				
-				String clicked = 
+//				String clicked = 
 				
-			    response.getWriter().print(obj.length());
+//			    response.getWriter().print(obj.length());
 				
 				
 			}
